@@ -1,2 +1,2 @@
 *my portfolio
-Visit my portfolio site here: https://github.com/kiokio-create/My-portfolio-UDM.git
+Visit my portfolio site here: https://kiokio-create.github.io/My-portfolio-UDM/
